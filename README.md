@@ -63,6 +63,16 @@ El proyecto incluye:
 Vengo del área de humanidades (bibliotecología), con experiencia en búsqueda, organización y análisis de información. Actualmente estoy orientando mi perfil hacia el análisis de datos, aplicando estas habilidades a proyectos con datos reales.
 
 ---
+## Cómo visualizar el proyecto
+
+El análisis completo puede consultarse en el archivo PDF o en el siguiente enlace:
+https://github.com/besosalen-coder/analisis-argentina-vacunacion/blob/main/Repositorio_vacunacion(2009-2024)/Informe/An%C3%A1lisis%20de%20datos%20Cobertura%20de%20vacunaci%C3%B3n%20Triple%20Viral%20%E2%80%94%20Arg.pdf
+
+---
+
+## Autoría
+
+Proyecto individual realizado con datos públicos del Ministerio de Salud de la Nación.
 
 ## Contacto
 
