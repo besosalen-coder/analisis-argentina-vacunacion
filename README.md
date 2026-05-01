@@ -5,7 +5,7 @@
 Este proyecto analiza la evolución de la cobertura de vacunación de la vacuna Triple Viral en Argentina entre 2009 y 2024, utilizando datos públicos del Ministerio de Salud.
 
 El objetivo es identificar tendencias en el tiempo y diferencias entre provincias, con foco en la disminución de la cobertura y sus implicancias en la salud pública.
-https://github.com/besosalen-coder/analisis-argentina-vacunacion/blob/main/Captura%20de%20pantalla%20(30).png?raw=true
+https://github.com/besosalen-coder/analisis-argentina-vacunacion/blob/main/Analisis_Por_a%C3%B1o(30).png?raw=true
 ---
 
 ## Objetivos
