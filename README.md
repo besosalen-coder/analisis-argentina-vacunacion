@@ -4,7 +4,9 @@
 
 Este proyecto analiza la evolución de la cobertura de vacunación de la vacuna Triple Viral en Argentina entre 2009 y 2024, utilizando datos públicos del Ministerio de Salud.
 
-El objetivo es identificar tendencias en el tiempo y diferencias entre provincias, con foco en la disminución de la cobertura y sus implicancias en la salud pública.
+El objetivo es identificar tendencias en el tiempo y diferencias entre provincias, con foco en la disminución de la cobertura y sus implicancias en la salud pública. El análisis explora la caída en la cobertura de vacunación infantil, las diferencias entre provincias y el impacto observado en los años posteriores a la pandemia de COVID-19.
+
+
 ![Grafico vacunacion](vacunacion.png)
 ---
 
